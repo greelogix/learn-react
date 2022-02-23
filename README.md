@@ -14,3 +14,17 @@ https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0%3A1
 
 
 **Task 5.** Extend the assignment 2 by providing a checkbox against all the todos that will represent that the todo has been done. If the checkbox is checked, it means todo has been completed and display an underline against that todo.
+
+
+**Task 6.** Take the following data and display it in the form of a table.
+
+students = [
+  {id: 1, name: 'Asad', subject: 'Chemistry'},
+  {id: 2, name: 'Ahmad', subject: 'Physics'},
+  {id: 3, name: 'Zain', subject: 'Chemistry'},
+  {id: 4, name: 'Usama', subject: 'Urdu'},
+  {id: 5, name: 'Ali', subject: 'English'},
+  {id: 6, name: 'Hamza', subject: 'Math'},
+];
+
+Further, create a delete action button against each row that will delete the specific data from array.
